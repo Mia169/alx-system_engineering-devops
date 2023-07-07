@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+repositories/http\:__download.eclipse.org_oomph_drops_milestone_S20230502-102927-1.29.0-M2/enabled=false
+repositories/http\:__download.eclipse.org_oomph_drops_milestone_S20230502-102927-1.29.0-M2/isSystem=true
+repositories/http\:__download.eclipse.org_oomph_drops_milestone_S20230502-102927-1.29.0-M2/name=Oomph S20230502-102927-1.29.0-M2
+repositories/http\:__download.eclipse.org_oomph_drops_milestone_S20230502-102927-1.29.0-M2/suffix=content.xml.xz
+repositories/http\:__download.eclipse.org_oomph_drops_milestone_S20230502-102927-1.29.0-M2/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/http\:__download.eclipse.org_oomph_drops_milestone_S20230502-102927-1.29.0-M2/uri=http\://download.eclipse.org/oomph/drops/milestone/S20230502-102927-1.29.0-M2
+repositories/http\:__download.eclipse.org_oomph_drops_milestone_S20230502-102927-1.29.0-M2/version=1.0.0
+repositories/https\:__download.eclipse.org_justj_jres_20_updates_release_20.0.1/enabled=false
+repositories/https\:__download.eclipse.org_justj_jres_20_updates_release_20.0.1/isSystem=true
+repositories/https\:__download.eclipse.org_justj_jres_20_updates_release_20.0.1/name=JustJ JREs 20.0.1 Release
+repositories/https\:__download.eclipse.org_justj_jres_20_updates_release_20.0.1/suffix=content.xml.xz
+repositories/https\:__download.eclipse.org_justj_jres_20_updates_release_20.0.1/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/https\:__download.eclipse.org_justj_jres_20_updates_release_20.0.1/uri=https\://download.eclipse.org/justj/jres/20/updates/release/20.0.1
+repositories/https\:__download.eclipse.org_justj_jres_20_updates_release_20.0.1/version=1.0.0
